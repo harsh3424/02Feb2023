@@ -1,4 +1,4 @@
-public class Sum {
+public class sum {
     
     public static int sum(int n,int m){
         return n+m;        
